@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+tavily-python
+chromadb
+pydantic>=2.0
+python-dotenv
+pypdf
