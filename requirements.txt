@@ -4,10 +4,14 @@ langchain-openai
 langchain-community
 langchain-groq
 langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-tavily
 tavily-python
 chromadb
 pydantic>=2.0
 python-dotenv
 pypdf
+pymupdf
 fastapi
 uvicorn
