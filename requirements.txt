@@ -8,6 +8,7 @@ langchain-chroma
 langchain-text-splitters
 langchain-tavily
 tavily-python
+sentence-transformers
 chromadb
 pydantic>=2.0
 python-dotenv
